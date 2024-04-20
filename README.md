@@ -1,2 +1,2 @@
-для создания функции замены лица испольвазалсь библиотека: AI.ComputerVision.DeepFake
-для создния телеграм бота использовались библиотеки: pyTelegramBotAPI, python-telegram, os, json, subprocess
+для создания функции замены лица испольвазалсь библиотека: AI.ComputerVision.DeepFake<br />
+для создния телеграм бота использовались библиотеки: pyTelegramBotAPI, python-telegram, os, json, subprocess<br />
