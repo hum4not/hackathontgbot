@@ -9,10 +9,10 @@ import random
 import re
 import shutil
 
-bot = telebot.TeleBot('6477693722:AAFSgjOhL9hLKxU6BCFG9fAiwCgLJ0nW3Ds')
+bot = telebot.TeleBot('')
 
-CHANNEL_ID = -1002040406135 #айди канала на который нужно будет подписываться пользователям
-SUPPORT_ID = -4125535892 #айди чата с поддержкой
+CHANNEL_ID = #айди канала на который нужно будет подписываться пользователям
+SUPPORT_ID = #айди чата с поддержкой
 active = {} #ожидание загрузки темпейлта
 sending_face = {} #ожидание загрузки лица для создания пака 
 delete_template = {} #юзеры которые в данный момент хотят удалить шаблон
