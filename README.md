@@ -1,7 +1,5 @@
 для создания функции замены лица испольвазалсь библиотека: AI.ComputerVision.DeepFake<br />
 для создния телеграм бота использовались библиотеки: pyTelegramBotAPI, python-telegram, os, json, subprocess, Pillow<br />
-видео-пример: https://gemoo.com/tools/upload-video/share/640699041480486912?codeId=v67a7O09ZbNjJ&card=640699037839831040 <br />
-
 инструкция запуска:
 1) установить репозиторий как zip и разархивировать
 2) открыть TestApp.sln 
